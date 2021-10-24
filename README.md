@@ -13,6 +13,9 @@ Then the program will collect the information and calculate the int age input an
 
 # How To Contribute
 
+# About our license
+The license is a BSD license. This means that it is a type of permissive free software license. There are not many restrictions on the use and distribution of our software. Our license allows the modification and distribution of our software as well. 
+
 
 
 
