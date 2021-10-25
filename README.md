@@ -23,7 +23,8 @@ To contribute, you will have to be using git hub as well as a software like jupy
 # About our license
 The license is a BSD license. This means that it is a type of permissive free software license. There are not many restrictions on the use and distribution of our software. Our license allows the modification and distribution of our software as well. 
 
-
+#About our code of conduct
+The Code of Conduct is for open source communities, which have shared values and norms with its members. The code of conduct talks about the values and norms 
 
 
 
